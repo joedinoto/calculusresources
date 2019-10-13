@@ -1,4 +1,4 @@
-# calculusresources
+# Calculus Resources
 some curated calculus video, notes, and software sources
 
 ## Videos
