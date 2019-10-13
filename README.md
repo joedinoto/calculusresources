@@ -1,5 +1,5 @@
 # calculusresources
-some curated calculus resources
+some curated calculus video, notes, and software sources
 
 ## Videos
 
@@ -17,4 +17,16 @@ Here are several video producers that feature superior calculus content.
  
  ## Notes 
  
- 
+There is no be-all-end-all one-stop-shop for notes and problem sets and examples, but if such a website did exist, it would be...
+
+* Paul's Online Math Notes http://tutorial.math.lamar.edu/ 
+
+It features cheat sheets for algebra and trigonomoetry, thorough notes on single-variable and multi-variable calculus, a very searchable and easy to navigate website (CTRL+F will be your friend), and every subtopic has its own page of practice problems with worked solutions hidden behind a little "show solution" link. (So you don't have to worry about leaving the page to see the solution, or seeing a solution before you're read.) No sign in necessary, no annoying cookies, just pure mathematics for your scrolling pleasure. 
+
+## Software
+
+There are only two tware packages worth considering, in my view. Which one you prefer is up to you. 
+
+ 1. http://www.desmos.com/calculator - Simple, easy to use, designed from the ground up by a team who listened carefully to the needs of math students and math teachers. It's snappy and responsive, allows you to save graphs as a permalink without needing a sign-in, and allows you to interact with any graph by creating "sliders" for parameters. (example: type y = mx+b and it will ask you to make a slider for m and b, type f(x) = a\*sin(bx+c)+d and it will ask you to make sliders for a,b,c, and d.) You can compose functions, differentiate and integrate functions, plot inequalities, restrict domains, it's a dream. Follow @giohio on twitter for magnificent examples of what is possible. 
+ 2. http://www.geogebra.org - Much more functionality Desmos because it is also a geometry package and a statistical package with a slightly more powerful computer algebra system, plus a nice forum with an active development community. Again, @giohio on twitter will post remarkable examples of geogebra doing beautiful and elegant. Not quite a snappy and responsive as Desmos, but still very good. 
+ 3. Not really pieces of software, but worth mentioning are http://www.wolframalpha.com which is marvelous for checking answers to problems and http://www.symbolab.com for checking answers and seeing fully worked solutions that explain most problems in a way that mostly makes sense. 
